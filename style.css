@@ -1,0 +1,139 @@
+#home-page {
+    background-color: #ffbcbc;
+  }
+  h1 {
+    font-family: "Raleway", sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+  }
+  h3 {
+    font-size: 3rem;
+    font-family: "Raleway", sans-serif;
+  }
+  p {
+    color: #8f8f8f;
+  }
+  /* top-of-page */
+  .nav-bar {
+    padding: 0 0 4.5rem;
+  }
+  .nav-item {
+    padding: 0 40px;
+  }
+  .nav-link {
+    font-size: 1.2rem;
+  }
+  .title-edit {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 6;
+  }
+  .title-image {
+    width: 70%;
+  }
+  .top:hover {
+    color: #f6c6ea;
+  }
+  .title-work {
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+  }
+  .details-button {
+    padding: 10px;
+    margin-top: 15px;
+  }
+  span {
+    color: #334257;
+  }
+  /* ------ about-------- */
+  #about-page {
+    padding: 3% 15%;
+    background-color: #fff;
+  }
+  .about-set {
+    margin-top: 50px;
+    line-height: 3rem;
+    /* padding: 10px; */
+    padding: 0%;
+    text-align: left;
+  }
+  .about-work {
+    text-align: center;
+  }
+  .feature-box {
+    padding: 15px;
+  }
+  .icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+  }
+  .icon:hover {
+    color: #ff4c68;
+  }
+  /* ------ Skills------------ */
+  #skills-page {
+    text-align: center;
+    padding: 50px;
+    background-color: #e98580;
+  }
+
+  .skills-content{
+    text-align: center;
+  }
+  .skills-para {
+    margin-top: 20px;
+    color: #0a1931;
+  }
+  h6{
+    font-family: "Raleway", sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+  }
+  .calculator-box{
+    line-height: 3rem;
+    text-align: center;
+  }
+  .skills-icon {
+    padding: 30px;
+  }
+  .skills-icon:hover {
+    color: #52006a;
+  }
+  h6{
+    font-size: 30px;
+  }
+  /* contact-form */
+  .contact-title {
+    font-size: 3rem;
+    font-family: "Raleway", sans-serif;
+  }
+  #contact {
+    padding: 5% 3%;
+  }
+  /* footer */
+  .footer-font {
+    font-size: 3.5rem;
+  }
+  .footer-button {
+    padding: 2% 3%;
+    margin: 5rem;
+  }
+  #footer {
+    background-color: #ffbcbc;
+    padding: 3% 10%;
+    text-align: center;
+    line-height: 50px;
+  }
+  .f-icon {
+    margin: 15px;
+  }
+  .f-icon:hover {
+    color: #d83a56;
+  }
+  .footer-para {
+    color: #3e215d;
+  }
+  
